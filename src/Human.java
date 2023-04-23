@@ -20,5 +20,6 @@ class Human {
 class Test {
     public static void main(String[] args) {
         Human h = new Human();
+        int n = 0;
     }
 }
